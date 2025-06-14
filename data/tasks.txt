@@ -1,0 +1,12 @@
+Nightwing, we are a team. Our team consists of Anna, Olga, Jenna, Athena, and Lola.
+Anna - Content Creator
+Olga - Editor
+Jenna - Graphic and Web Designer
+Lola - Software Developer and Web Designer
+Athena - Chief Executive Officer
+The task is to prepare a presentation for clients to attract investors. Include:
+- Social media growth report by Anna, edited by Olga.
+- Visual slides by Jenna.
+- Software demo by Lola.
+- Investor pitch by Athena.
+Deadline: One week.

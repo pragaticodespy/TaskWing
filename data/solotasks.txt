@@ -1,0 +1,7 @@
+Help me Nightwing, I am solo on this mission.
+help me get through these concepts, with my finish time - a week. Help me manage my time, please.
+
+1. Artificial Neural Networks 
+2. Convolution Neural Networks
+3. Recurrent Neural Networks
+4. Stochastic Gradient
